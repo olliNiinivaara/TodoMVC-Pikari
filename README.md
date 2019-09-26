@@ -5,4 +5,4 @@ This application requires the [Pikari](https://github.com/olliNiinivaara/Pikari/
 
 Get the application by clicking [this link](https://github.com/olliNiinivaara/TodoMVC-Pikari/raw/master/todomvcpikari.zip), then unzip to preferred location.
 
-![pic](https://raw.githubusercontent.com/olliNiinivaara/TodoMVC-Pikari/master/pic.png)
+![pic](https://github.com/olliNiinivaara/TodoMVC-Pikari/raw/master/pic.png)
