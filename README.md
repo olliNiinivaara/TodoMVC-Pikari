@@ -1,8 +1,6 @@
 # TodoMVC-Pikari
-[The classic](http://todomvc.com/).
+The classic [TodoMVC](http://todomvc.com/examples/vanilla-es6/) on [Pikari](https://github.com/olliNiinivaara/Pikari/).
 
-This application builds on [Pikari](https://github.com/olliNiinivaara/Pikari/).
-
-Get the application by clicking [this link](https://github.com/olliNiinivaara/TodoMVC-Pikari/raw/master/todomvcpikari.zip), then unzip to preferred location.
+Pikari specifics are at Store constructor, everything else was left [as-was](https://github.com/tastejs/todomvc/tree/gh-pages/examples/vanilla-es6).
 
 ![pic](https://github.com/olliNiinivaara/TodoMVC-Pikari/raw/master/pic.png)
